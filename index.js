@@ -9,3 +9,7 @@ function discountTicket(ticketCost) {
     let result = ticketCost-(ticketCost*.20)
     return result
 }
+
+function tweetReply(fanName) {
+  return = "Hey " +fanName+", thanks so much for the support! I really appreciate it!"
+}
