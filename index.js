@@ -4,4 +4,4 @@ function getUKTime(yourTimeZone) {
   new Date(whatDate).getHours(yourTimeZone) + 5
 }
  
-getUKTime()
+getUKTime(yourTimeZone)
