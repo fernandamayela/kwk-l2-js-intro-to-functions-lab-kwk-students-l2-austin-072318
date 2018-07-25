@@ -4,5 +4,3 @@ function getUKTime() {
   new newTime=Date().getHours() + 5
   return newTime
 }
- 
-getUKTime()
