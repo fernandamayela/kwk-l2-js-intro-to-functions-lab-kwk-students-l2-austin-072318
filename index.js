@@ -2,7 +2,7 @@
 
 function getUKTime(yourTimeZone) {
   new Date().getHours(yourTimeZone) + 5
-  return
+  return Date
 }
  
 getUKTime(yourTimeZone)
