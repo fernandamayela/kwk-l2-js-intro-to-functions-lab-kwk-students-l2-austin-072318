@@ -7,5 +7,5 @@ function getUKTime() {
 
 function discountTicket(ticketCost) {
     let result = (ticketCost*.20)-ticketCost
-    return 
+    return result
 }
