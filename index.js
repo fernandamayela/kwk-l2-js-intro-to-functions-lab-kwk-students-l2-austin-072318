@@ -11,5 +11,5 @@ function discountTicket(ticketCost) {
 }
 
 function tweetReply(fanName) {
-  return = "Hey " +fanName+", thanks so much for the support! I really appreciate it!"
+  return = "Hey " + fanName +", thanks so much for the support! I really appreciate it!"
 }
