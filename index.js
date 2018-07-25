@@ -5,7 +5,7 @@ function getUKTime() {
   return newTime
 }
 
-function tipMaster(ticketCost) {
+function discount(ticketCost) {
     let result = (mealCost*.20)-ticketCost
     return 
 }
